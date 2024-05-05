@@ -1,0 +1,17 @@
+{
+  "studyGroupList": [
+    {
+      "id": 1,
+      "name": "123",
+      "coordinates": {
+        "x": 34.0,
+        "y": 13.0
+      },
+      "creationDate": "2024-05-05",
+      "studentsCount": 34,
+      "averageMark": 13,
+      "formOfEducation": "DISTANCE_EDUCATION",
+      "semesterEnum": "SIXTH"
+    }
+  ]
+}
