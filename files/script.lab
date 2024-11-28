@@ -1,0 +1,9 @@
+help
+
+info
+
+#some_comments
+
+execute_script C:\code\itmo\prog\prog-lab6\files\script2.lab
+
+add (123,44.0,55.0,66,6,EVENING_CLASSES,EIGHTH,null)
